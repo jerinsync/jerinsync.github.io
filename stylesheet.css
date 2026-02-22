@@ -134,6 +134,13 @@ body {
   background: linear-gradient(135deg, #ffffff, #cce7ff, #d8b4ff);
 }
 
+img.profile-pic {
+    width: 100%;
+    aspect-ratio: 1 / 1; /* ensures square */
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 /* .page-wrapper {
   background-color: #111827;
 } */
