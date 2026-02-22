@@ -131,7 +131,7 @@ span.highlight {
 }
 
 body {
-  background-color: #243041;
+  background: linear-gradient(135deg, #ffffff, #cce7ff, #d8b4ff);
 }
 
 /* .page-wrapper {
