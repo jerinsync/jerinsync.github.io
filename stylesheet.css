@@ -131,9 +131,9 @@ span.highlight {
 }
 
 body {
-  background-color: #fce4ec;
-}
-
-.page-wrapper {
   background-color: #111827;
 }
+
+/* .page-wrapper {
+  background-color: #111827;
+} */
