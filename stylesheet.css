@@ -141,6 +141,11 @@ img.profile-pic {
     border-radius: 50%;
 }
 
+.rounded-table {
+    border-radius: 12px;      /* smooth corners */
+    overflow: hidden;         /* ensures content doesn’t overflow the rounded corners */
+}
+
 /* .page-wrapper {
   background-color: #111827;
 } */
